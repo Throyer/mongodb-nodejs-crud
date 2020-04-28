@@ -15,17 +15,13 @@
 - `MongoDB`
 
 ## Como executar:
-- Clone o projeto
-    ```
-    git clone git@github.com:Throyer/mongodb-nodejs-crud.git && cd mongodb-nodejs-crud
-    ```
-    
-- Baixe as dependencias
-    ```
-    $ yarn install
-    ```
+```shell
+# Clone o projeto
+$ git clone git@github.com:Throyer/mongodb-nodejs-crud.git && cd mongodb-nodejs-crud
 
-- Execute o servidor node
-    ```
-    yarn serve
-    ```
+# Baixe as dependencias
+$ yarn install
+
+# Execute o servidor node
+$ yarn serve
+```
