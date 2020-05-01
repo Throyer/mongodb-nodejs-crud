@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="www.google.com"><img style="padding: 25px" width="200" src="./assets/node.png"></a>
-    <a href="www.google.com"><img style="padding: 25px" width="300" src="./assets/mongodb.png"></a>
+    <a href="www.google.com"><img width="200" src="./assets/node.png"></a>
+    <a href="www.google.com"><img width="300" src="./assets/mongodb.png"></a>
 </p>
 <br>
     <h1 align="center">Node + Mongo API CRUD</h1>
