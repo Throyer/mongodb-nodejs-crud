@@ -12,7 +12,7 @@ const options = {
     useUnifiedTopology: true
 };
 
-mongoose.connect('mongodb://192.168.0.103:27017/nodeapi', options);
+mongoose.connect('mongodb://localhost:27017/nodeapi', options);
 
 requireDir('./src/models');
 
